@@ -102,11 +102,11 @@ pip install -r requirements.txt
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
 | [Clement Moshohlo Mphethi](https://github.com/HoOdpHarMxcisT)                                                | clementmphethi@gmail.com
-| [CARROLL TSHABANE                                                                                  | ctshabane@gmail.com
-| [DIMPHO LEBEA                                                                            | dimpholebea28@gmail.com
-| [LEBOGANG MALATA                                                | Mich.malata@gmail.com
-| [KENEILWE MADIHLABA                                                                            | keneilwemadihlaba@gmail.com
-| [THOBILE MVUNI                                                | Thoyomvuni@gmail.com
+| [CARROLL TSHABANE](https://github.com/carrolltshabane)                                                                                 | ctshabane@gmail.com
+| [DIMPHO LEBEA](https://github.com/DimphoLebea28)                                                                           | dimpholebea28@gmail.com
+| [LEBOGANG MALATA](https://github.com/LebogangMalata)                                                | Mich.malata@gmail.com
+| [KENEILWE MADIHLABA]                                                                          | keneilwemadihlaba@gmail.com
+| [THOBILE MVUNI](https://github.com/ThobMvuni)                                                | Thoyomvuni@gmail.com
 
 
 #### Additional Resources to create a README file:
