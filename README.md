@@ -14,9 +14,18 @@
 * [5. Team Members](#team-members)
 
 ## 1. Project Overview <a class="anchor" id="project-description"></a>
-Your team of environmental consultants and data scientists is tasked by a coalition of agricultural stakeholders to analyse and predict CO2 emissions from the agri-food sector. The stakeholders include policymakers, agricultural businesses, and environmental organisations. Your project aims to understand the impact of agricultural activities on climate change and develop strategies for sustainable practices. Utilising a comprehensive dataset compiled from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), you will explore various emission sources, perform regression analysis to predict temperature variations, and offer actionable insights for the stakeholders.
+The agri-food sector is a significant contributor to global CO2 emissions, which in turn drive climate change. Understanding these emissions and developing strategies to mitigate them is crucial for promoting sustainability. We are a team of environmental consultants and data scientists that has been commissioned by a coalition of policymakers, agricultural businesses, and environmental organizations to analyze and predict CO2 emissions from agricultural activities. The goal is to identify the environmental impacts, predict temperature variations, and offer actionable insights to drive sustainable practices in the sector.
 
-By the end of this project, you will have a thorough understanding of the impact of agricultural activities on CO2 emissions and climate change. Your findings and recommendations will contribute to the ongoing efforts to promote sustainability within the agri-food sector, providing valuable insights for the stakeholders involved in this initiative.
+Have you ever wondered how agricultural activities, like rice cultivation or food processing, contribute to climate change?. In this project, we'll use our analytical skills to dive deep into emissions data, explore the interplay between emission sources and climate, and build predictive models. This study is aimed at analyzing the sources and trends of CO2 emissions within the agri-food sector and to develop actionable strategies for reducing these emissions through sustainable agricultural practices.The project seeks to understand how these emissions influence temperature variations and develop strategies for sustainable practices.
+
+Our objectives are as follows
+Analyze Temperature Variations: Assess how these emissions correlate with temperature changes over time.
+Analyze temporal trends and geographical patterns in CO2 emissions.
+Identify Key Drivers: Determine which agricultural activities contribute most significantly to temperature variations.
+Regression Analysis: train regression models to predict temperature variations based on emission data.
+Predict temperature variations based on CO2 emissions data using regression analysis.
+Develop recommendations for sustainable agricultural practices to reduce CO2 emissions.
+Insights Generation: Extract actionable insights and recommendations for stakeholders in the agricultural sector to promote sustainable agricultural practices
 
 ## 2. Dataset <a class="anchor" id="dataset"></a>
 Emissions from the agri-food sector play a crucial role in climate change, as they represent a significant share of global annual emissions. The dataset highlights the substantial contribution of the various sources of emissions. Therefore, it is essential to understand and address the environmental impact of the agri-food industry to mitigate climate change and promote sustainable practices within this sector.
@@ -92,11 +101,12 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
-
+| [Clement Moshohlo Mphethi](https://github.com/HoOdpHarMxcisT)                                                | clementmphethi@gmail.com
+| [CARROLL TSHABANE                                                                                  | ctshabane@gmail.com
+| [DIMPHO LEBEA                                                                            | dimpholebea28@gmail.com
+| [LEBOGANG MALATA                                                | Mich.malata@gmail.com
+| [KENEILWE MADIHLABA                                                                            | keneilwemadihlaba@gmail.com
+| [THOBILE MVUNI                                                | Thoyomvuni@gmail.com
 
 
 #### Additional Resources to create a README file:
